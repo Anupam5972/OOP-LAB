@@ -1,0 +1,11 @@
+1. Wap to create a class named A and accept two no by using getdata(). And Create a class B derived from A which will display that two no by using putdata().
+
+2. Wap create a Number class which will accept two no. And create another class Calculate, derived from Number class which will display GCD of that two no by using appropriate function.
+
+3. Wap create a Father class data mamber is name and age. And create Son class, derived from Father which will accept name and age. if son age is greater than father age it display err otherwise it display all info about father and son.
+
+4. Wap to create Rectange class having data member width & height. And create another class Area which will derived from Rectange. And display it's area.
+
+5. Wap to create a Student class which data member's are roll, name & mark of 3 subject. And cleare Result class which will display all info along with grade.
+if 90 -80 O
+if 80-70 E  like that
